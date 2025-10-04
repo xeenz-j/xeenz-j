@@ -43,7 +43,7 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xeenz-j&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔗 Enlaces
+ Enlaces
 - 💼 GitHub: [github.com/xeenz-j](https://github.com/xeenz-j)  
   
 
