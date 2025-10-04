@@ -10,7 +10,7 @@
 <h1 align="center">Hola, soy <b>Josue</b> 👋</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería en Computación | Apasionado por la programación, el hardware</em>
+  <em>Estudiante de Ingeniería en Computación | Apasionado por la programación</em>
 </p>
 
 <p align="center">
@@ -48,5 +48,5 @@
 - 📧 Correo: [josuesalasmo@gmail.com](mailto:josuesalasmo@gmail.com)
 
 <p align="center">
-  <sub>Hecho con ☕ y un toque de oscuridad 🖤 | Última actualización: 2025</sub>
+  <sub> :P | Última actualización: 2025</sub>
 </p>
