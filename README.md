@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
     <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
-    <img alt="Dark banner" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="100%">
+    <img alt="Dark banner" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="50%">
   </picture>
 </p>
 
@@ -23,7 +23,7 @@
 - 🔭 Actualmente aprendiendo sobre Git, Linux (Kali + WSL) y desarrollo en C, Python y Java.  
 - 🎯 Objetivo: mejorar mis habilidades para futuros proyectos de ingeniería y tecnología.  
 - 💡 Me gusta personalizar todo: terminales, temas oscuros y proyectos con estilo.  
-- ⚡ Fun fact: mi entorno tiene tema oscuro hasta en la BIOS 😎.  
+  
 
 ## 🧰 Tech Stack
 <p>
@@ -36,11 +36,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
-## 🌟 Proyectos recientes
-- 🧠 [Repositorio de prácticas](https://github.com/xeenz-j/prueba) — probando Git desde Kali + WSL.  
-- ⚙️ [Scripts útiles](https://github.com/xeenz-j/scripts) — pequeños scripts personales para automatizar cosas.  
-- 💻 [Proyecto personal futuro](https://github.com/xeenz-j) — en desarrollo...  
 
 ## 📈 Estadísticas
 <p align="center">
