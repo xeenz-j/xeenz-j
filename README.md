@@ -1,11 +1,13 @@
 
 <p align="center">
-  <picture>
-    <source media="https://images.unsplash.com/photo-1724836057633-ebd36c7dd169?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-    <source media="https://images.unsplash.com/photo-1724836057633-ebd36c7dd169?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-    <img alt="Dark banner" src="https://images.unsplash.com/photo-1724836057633-ebd36c7dd169?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="75%">
-  </picture>
+    <img 
+    src="https://images.unsplash.com/photo-1724836057633-ebd36c7dd169?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0" 
+    alt="Banner oscuro" 
+    width="75%" 
+  />
 </p>
+
+<br>
 
 <h1 align="center">Hola, soy <b>Josue</b> 👋</h1>
 
