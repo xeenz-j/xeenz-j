@@ -1,22 +1,16 @@
-<!--
-📌 GitHub Profile README (Dark Theme) — Personalizado para Josue (xeenz-j)
-Instrucciones:
-1) Crea un repo público con el nombre EXACTO de tu usuario:  xeenz-j/xeenz-j
-2) Dentro, crea un archivo README.md y pega este contenido.
--->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop">
-    <source media="(prefers-color-scheme: light)" srcset="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop">
-    <img alt="Dark banner" src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
+    <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
+    <img alt="Dark banner" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="100%">
   </picture>
 </p>
 
 <h1 align="center">Hola, soy <b>Josue</b> 👋</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería en Computación | Apasionado por la programación, el hardware y la tecnología oscura 🌑</em>
+  <em>Estudiante de Ingeniería en Computación | Apasionado por la programación, el hardware</em>
 </p>
 
 <p align="center">
