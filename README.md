@@ -1,7 +1,7 @@
 
 <p align="center">
     <img 
-    src="https://images.unsplash.com/photo-1724836057633-ebd36c7dd169?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0" 
+    src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg" 
     alt="Banner oscuro" 
     width="75%" 
   />
