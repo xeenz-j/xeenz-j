@@ -1,9 +1,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
-    <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
-    <img alt="Dark banner" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="50%">
+    <source media="https://images.unsplash.com/photo-1626450429795-a3ba2964ef7f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <source media="https://images.unsplash.com/photo-1626450429795-a3ba2964ef7f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img alt="Dark banner" src="https://images.unsplash.com/photo-1626450429795-a3ba2964ef7f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="50%">
   </picture>
 </p>
 
