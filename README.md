@@ -31,8 +31,6 @@
  🧰 Tech Stack
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-0f172a?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img alt="WSL" src="https://img.shields.io/badge/WSL-0f172a?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -51,5 +49,5 @@
   
 
 <p align="center">
-  <sub> :P | Última actualización: 2025</sub>
+  <sub> "Si lo puedes imaginar, lo puedes programar". Gracias por todo Alejandro Taboada. | Última actualización: 2025</sub>
 </p>
