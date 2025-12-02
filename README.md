@@ -13,7 +13,7 @@
 <h1 align="center">Hola, soy <b>Josue</b> 👋</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería en Computación | Apasionado por la programación</em>
+  <em>Estudiante de Ingeniería en Computación </em>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
  🧑‍💻 Sobre mí
-- 🔭 Actualmente aprendiendo sobre Git, Linux (Kali + WSL) y desarrollo en C, Python y Java.  
+- 🔭 Actualmente aprendiendo sobre Git, Linux, Python, C++ y Java.
 - 🎯 Objetivo: mejorar mis habilidades para futuros proyectos de ingeniería y tecnología.  
 - 💡 Me gusta personalizar todo: terminales, temas oscuros y proyectos con estilo.  
   
