@@ -23,8 +23,7 @@
 </p>
 
  🧑‍💻 Sobre mí
-- 🔭 Actualmente aprendiendo sobre Git, Linux, Python, C++ y Java.
-- 🎯 Objetivo: mejorar mis habilidades para futuros proyectos de ingeniería y tecnología.  
+- 🔭 Actualmente aprendiendo sobre Git, Linux, Python, C++ y Java. 
 - 💡 Me gusta personalizar todo: terminales, temas oscuros y proyectos con estilo.  
   
 
