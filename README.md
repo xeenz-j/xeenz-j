@@ -39,12 +39,12 @@
 
  📈 Estadísticas
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xeenz-j&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xeenz-j&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JosueMoscoSalas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMoscoSalas&theme=tokyonight&hide_border=true" />
 </p>
 
  Enlaces
-- 💼 GitHub: [github.com/xeenz-j](https://github.com/xeenz-j)  
+- 💼 GitHub: [github.com/xeenz-j](https://github.com/JosueMoscoSalas)  
   
 
 <p align="center">
